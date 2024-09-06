@@ -1,2 +1,2 @@
 public class Repas.java {
-  publicstatic void main(String
+  public static void main(String
